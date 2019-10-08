@@ -3,7 +3,7 @@
  * Una referencia es un nombre alternativo (un sin\'onimo) para 
  * un objeto. Su utilizaci\'on la podemos observar en el dise\~no
  * de clases (por ejemplo, en el constructor de copia), en el valor 
- * retornado por una funci\'on para permitir que dicha funci\'on sea 
+ * rebqvruivbqurvueqvtornado por una funci\'on para permitir que dicha funci\'on sea 
  * utilizada a ambos lados del operador de asignaci\'on (la funci\'on 
  * devuelve una referencia), o para permitir que los argumentos en la 
  * llamada puedan cambiar (paso de par\'ametros por referencia). La 
